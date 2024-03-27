@@ -1,0 +1,44 @@
+# Compile of mux_synchro_tb.v failed with 1 errors.
+# Compile of mux_synchro_tb.v was successful.
+vsim work.mux_synchro_tb
+# vsim work.mux_synchro_tb 
+# Start time: 12:04:45 on Mar 26,2024
+# Loading work.mux_synchro_tb
+# Loading work.mux_synchro
+# Loading work.mux2_1
+# Loading work.dual_flop_synchro
+# Loading work.dflop
+add wave -position insertpoint sim:/mux_synchro_tb/*
+run
+quit -sim
+# End time: 12:06:26 on Mar 26,2024, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 3
+# Compile of mux_synchro_tb.v was successful.
+vsim work.mux_synchro_tb
+# vsim work.mux_synchro_tb 
+# Start time: 12:06:44 on Mar 26,2024
+# Loading work.mux_synchro_tb
+# Loading work.mux_synchro
+# Loading work.mux2_1
+# Loading work.dual_flop_synchro
+# Loading work.dflop
+add wave -position insertpoint sim:/mux_synchro_tb/*
+run
+force -freeze sim:/mux_synchro_tb/synchro_out_tb St0 0
+force -freeze sim:/mux_synchro_tb/enable_tb 0 0
+run
+run
+run
+run
+force -freeze sim:/mux_synchro_tb/enable_tb 1 0
+force -freeze sim:/mux_synchro_tb/data_in_tb 1 0
+run
+run
+run
+run
+run
+force -freeze sim:/mux_synchro_tb/synchro_out_tb St1 0
+run
+quit -sim
+# End time: 12:12:12 on Mar 26,2024, Elapsed time: 0:05:28
+# Errors: 0, Warnings: 2

@@ -1,0 +1,36 @@
+{C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_synchro
+
+Top level modules:
+	mux_synchro
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_synchro_tb
+
+Top level modules:
+	mux_synchro_tb
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dual_flop_synchro
+
+Top level modules:
+	dual_flop_synchro
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dflop
+
+Top level modules:
+	dflop
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2_1
+
+Top level modules:
+	mux2_1
+
+} {} {}}

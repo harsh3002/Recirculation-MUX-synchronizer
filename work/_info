@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer
+vdflop
+!s110 1711433781
+!i10b 1
+!s100 EZmF7W;kS>GanJS[`VVF50
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDQmW3zn@>UM0O9AQF60I81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer
+w1711433671
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v
+!i122 2
+L0 4 14
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711433781.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/dflop.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdual_flop_synchro
+!s110 1711432529
+!i10b 1
+!s100 Zm`^W]^i^J=olaacX^2KF2
+R0
+I9>6AU:ML975HP5T1eWH[o3
+R1
+R2
+w1711195018
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+!i122 1
+L0 4 22
+R3
+r1
+!s85 0
+31
+!s108 1711432529.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+!i113 1
+R4
+R5
+vmux2_1
+!s110 1711432437
+!i10b 1
+!s100 JAcz9TQgWK1TjQIWaF9DQ2
+R0
+I=Wd6ICcef:PFRa?k<TOT51
+R1
+R2
+w1711357641
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v
+!i122 0
+L0 4 9
+R3
+r1
+!s85 0
+31
+!s108 1711432437.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v|
+!i113 1
+R4
+R5
+vmux_synchro
+!s110 1711433919
+!i10b 1
+!s100 lMQQ>8n>7:oJoc>[`7KJM3
+R0
+I5lj@NCWk:Bo>aFRa[LLTL3
+R1
+R2
+w1711433918
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v
+!i122 5
+L0 4 40
+R3
+r1
+!s85 0
+31
+!s108 1711433919.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro.v|
+!i113 1
+R4
+R5
+vmux_synchro_tb
+!s110 1711435002
+!i10b 1
+!s100 z3o<f8fE?zId[4UJ15b?E1
+R0
+IBoORhTQTX^c^]OH54Pb=M1
+R1
+R2
+w1711435000
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v
+!i122 7
+L0 4 45
+R3
+r1
+!s85 0
+31
+!s108 1711435002.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/recirculation mux synchronizer/mux_synchro_tb.v|
+!i113 1
+R4
+R5
